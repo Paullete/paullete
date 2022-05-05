@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my playground
 
-## An aspiring Fullstack developer 
+## A Fullstack developer 
 
 ### Languages and Frameworks:
 <div style="display: inline_block"><br>
