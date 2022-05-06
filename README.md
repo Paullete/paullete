@@ -2,26 +2,34 @@
 
 ## A Fullstack developer 
 <br>
+### Profile visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Paullete)
+
+<br>
 <div align="center">
   <img height="150rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=Paullete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paullete&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-
 ### Languages and Frameworks:
+
 <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-Angular" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Python" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Flask" height="30" width="40" style="margin-right: 2%; "src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-Angular" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Paullete-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Paullete-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Paullete-Flask" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Paullete-Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
-<br>
+
+
 
 ### Tools :
 
