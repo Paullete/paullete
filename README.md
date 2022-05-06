@@ -2,6 +2,7 @@
 
 ## A Fullstack developer 
 <br>
+<br>
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Paullete)
 
@@ -11,6 +12,8 @@
   <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paullete&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
+<br>
+
 ### Languages and Frameworks:
 
 <div style="display: inline_block"><br>
