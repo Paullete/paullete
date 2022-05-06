@@ -1,14 +1,9 @@
 ### Hi there 👋 welcome to my playground
 
 ## A Fullstack developer 
-<br>
-
-<br>
-## Profile visits
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Paullete)
-
 <br>
+
 <div align="center">
   <img height="150rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=Paullete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paullete&layout=compact&langs_count=7&theme=tokyonight"/>
