@@ -2,8 +2,7 @@
 
 ## A Fullstack developer 
 <br>
-### Profile visits
-
+### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Paullete)
 
 <br>
