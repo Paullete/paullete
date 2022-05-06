@@ -40,7 +40,13 @@
 
 <br>
 <br>
- 
+### 🤝🏻 Connect with me:
+<br>
+<div> 
+ <a href="mailto:paulettenereah3@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/paullete=adhiambo-632a71216/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ <br>
+  <br>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
