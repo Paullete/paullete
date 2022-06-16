@@ -37,6 +37,7 @@
     <img align="center" alt="canva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paullete&" alt="paullete" /></p>
 
 <br>
