@@ -24,7 +24,7 @@
    <img align="center" alt="Paullete-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Paullete-Flask" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Paullete-Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
 </div>
 
 <br>
